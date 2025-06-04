@@ -1,0 +1,8 @@
+This folder contains my practice on the NLTK library
+
+Main  topics include codes on text pre-processing using :
+  1. Noise removal
+  2.Lexicon Standardization
+  3.Object Standarization
+
+Along that it contains, parts-of-speech codes, TF-IDF codes, as well as LDA model for topic modeling
