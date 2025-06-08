@@ -4,3 +4,4 @@
 Overview of topics: <br>
 1.NLTK library <br>
 2.Hugging Face endpoints and pipeline on google colab <br>
+3.Image Captioning model project 
