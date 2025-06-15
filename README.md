@@ -10,4 +10,4 @@ Overview of topics: <br>
 6.Embedding Models - Using Langchain - Huggingface library <br>
 7.Langchain Prompts - Messages, Message Placeholder, Prompt Template <br>
 8.Langchain Structured Output - with_structured_output function <br>
-9.Langchain Output Parsers
+9.Langchain Output Parsers - String, Json, Structured Output, Pydantic
