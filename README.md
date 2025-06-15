@@ -8,4 +8,6 @@ Overview of topics: <br>
 4.AI Weather Agent trial, auto prompting required. <br>
 5.Video Summarizer AI using Streamlit and Google Gemini 2.0 <br>
 6.Embedding Models - Using Langchain - Huggingface library <br>
-7.Langchain Prompts - Messages, Message Placeholder, Prompt Template
+7.Langchain Prompts - Messages, Message Placeholder, Prompt Template <br>
+8.Langchain Structured Output - with_structured_output function <br>
+9.Langchain Output Parsers
