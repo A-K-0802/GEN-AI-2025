@@ -12,4 +12,4 @@ Overview of topics: <br>
 8.Langchain Structured Output - with_structured_output function <br>
 9.Langchain Output Parsers - String, Json, Structured Output, Pydantic <br>
 10.Langchain Chains - Single, Parallel and Conditional <br>
-11.Langchain Document Loader - Text Loader, PyPDF Loader
+11.Langchain Document Loader - Text Loader, PyPDF Loader, Directory Loader
