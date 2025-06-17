@@ -1,0 +1,34 @@
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+
+text="""
+Whispers of the Quiet Sky
+
+Beneath a sky of twilight blue,  
+The stars emerge, a silver hue.  
+The moonlight dances on the streams,  
+Awakening long-forgotten dreams.  
+
+The trees converse in rustling sighs,  
+Their leaves like voices in disguise.  
+A gentle breeze begins to roam,  
+And every shadow finds a home.  
+
+The flowers close in silent prayer,  
+Night cradles all with tender care.  
+The world, now hushed, begins to sleep,  
+Its secrets buried soft and deep.  
+
+In stillness, peace begins to grow,  
+A rhythm only night can know.  
+And in that calm, the soul takes flight,  
+To wander freely with the night.
+"""
+
+splitter=RecursiveCharacterTextSplitter(
+    chunk_size=400,
+    chunk_overlap=0 
+)
+
+chunks=splitter.split_text(text)
+print(len(chunks))
+print(chunks)
