@@ -13,4 +13,4 @@ Overview of topics: <br>
 9.Langchain Output Parsers - String, Json, Structured Output, Pydantic <br>
 10.Langchain Chains - Single, Parallel and Conditional <br>
 11.Langchain Document Loader - Text Loader, PyPDF Loader, Directory Loader, WebBase Loader, CSV Loader <br>
-12.Text Splitter - Length based, Text Structure based
+12.Text Splitter - Length based, Text Structure based, Document based, Semantic based
