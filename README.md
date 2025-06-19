@@ -15,4 +15,5 @@ Overview of topics: <br>
 11.Langchain Document Loader - Text Loader, PyPDF Loader, Directory Loader, WebBase Loader, CSV Loader <br>
 12.Text Splitter - Length based, Text Structure based, Document based, Semantic based <br>
 13.Retrievers - MMR, Multi-Query<br>
-14.RAG based Youtube Chatbot
+14.RAG based Youtube Chatbot <br>
+15.Tools in langchain - Built-In and Custom , Toolkits
